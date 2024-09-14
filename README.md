@@ -1,0 +1,1 @@
+This project is very messsy, and really just a beginners try at learning java, its a gui client using swing that allows file,help and options. with also a text thing (you can remove that if you want), this isnt meant to be a full on app and more or less and template.
